@@ -1,7 +1,7 @@
 import random
 import time
 starter_pokemon = ['Pikachu', 'Bulbasaur', 'Squirtle', 'Charmander']
-wild_pokemon = ['Pidgey', 'Ratatta', 'Spearow', 'Mankey' ]
+wild_pokemon = ['Pidgey', 'Ratatta', 'Spearow', 'Mankey', 'Evee' ]
 team =[]
 hp_w = 50
 hp_s = 50
