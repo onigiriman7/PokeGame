@@ -29,3 +29,4 @@ def BattleLoop(digiPet1, digiPet2):
     #create objects pet 1 and pet 2  which will battle
     #initialize digipet fields with base stats
     print("Write battle functions and create battle loop")
+LDKJHAELOIFH LOIEFHLSWOIERHFu
