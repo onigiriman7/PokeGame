@@ -322,4 +322,6 @@ while True:
         print('Enter 1 ro select "Battle", 2 for "Pokeball", 3 for "Run"')
         i = int(input())
         battle(i)
+        
+# first pokemon program
 
